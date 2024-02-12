@@ -1,0 +1,9 @@
+Lab 2 - continuation
+
+pdf  f(x) =P(X=x)
+cdf  f(x) =P(X<x)
+
+Application C) P(X=0) , X follows the binomial law ==> represends the nr of succeses
+	==> pdf (help pdf or binopdf) 
+	==> px= binopdf(x- number od succes, n-trails, p-probability
+
